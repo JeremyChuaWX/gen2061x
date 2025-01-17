@@ -1,0 +1,16 @@
+{
+    "schemes": [
+        {
+            "name": "",
+            "eligibility": {
+                "dob": ""
+            }
+        },
+        {
+            "name": "",
+            "eligibility": {
+                "age": ""
+            }
+        }
+    ]
+}
